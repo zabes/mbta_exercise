@@ -1,0 +1,35 @@
+Test Cases Exercised:
+
+Basic User Input for all available commands:
+Case 1: Valid User Input
+Case 2: User Input - All CAPS
+Case 3: User Input - All lowercase
+Case 4: Invalid input
+
+Get Subway Lines:
+All previous Basic User Input Test Cases
+Case 1: Valid User Input - Command Specific
+Case 2: Invalid User Input - Command Specific
+
+Get Subway Stops:
+All previous Basic User Input Test Cases
+Case 1: Valid User Input - Command Specific
+Case 2: Invalid User Input - Command Specific
+Case 3: Valid Subway Route Used
+Case 4: Invalid Subway Route Used
+
+Plan A Trip:
+All previous Basic User Input Test Cases
+Case 1: Valid User Input - Command Specific
+Case 2: Invalid User Input - Command Specific
+Case 3: Valid Trip - Same Subway Line
+Case 4: Valid Trip - Same Start and End
+Case 5: Valid Trip - 1 Hop Trip 
+Case 6: Valid Trip - 2 Hop Trip
+Case 7: Invalid Trip - Invalid Starting Station
+Case 8: Invalid Trip - Invalid Ending Station
+
+Quit:
+All previous Basic User Input Test Cases
+Case 1: Valid User Input - Command Specific
+Case 2: Invalid User Input - Command Specific

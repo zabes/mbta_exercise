@@ -1,0 +1,17 @@
+Requirements:
+Python 3 or newer (Tested using python 3.7.3) Python installation can be downloaded from https://www.python.org/downloads/
+
+Python Modules Required:
+Requests - This is installed via PIP. Requests installation instructions are located here http://docs.python-requests.org/en/master/user/install/#install
+
+Execution:
+From within the extracted directory, run the following command:
+python3.7 main.py - Note: Execution of python 3 may differ for your machine. consult https://docs.python.org/3/using/index.html if issues arise
+
+The program is menu driven using the displayed command in the window. Commands are not case sensitive.
+
+Available Commands:
+Get Subway Lines -- Retrieves all available Light and Heavy Rail Subway Lines and displays them for the user
+Get Subway Stops -- Retrieves a listing of available stops on the selected Subway Line and displays them for the user.
+Plan a Trip -- Outputs a trip itinerary for the user with directions on how to reach their requested destination
+Quit -- Exits the program
